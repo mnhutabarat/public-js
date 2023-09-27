@@ -22,7 +22,7 @@ function _0x1144() {
     var _0x255bb9 = ['Escape'
                      , 'load'
                      , '[?&]'
-                     , '.field\x20.normal_price\x20td:last-of-type'
+                     , '.field .normal_price td:last-of-type'
                      , '4.bp.blogspot.com'
                      , 'timeago'
                      , '</small>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'
